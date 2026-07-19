@@ -20,7 +20,7 @@
 | Платформа | Скачать |
 |---|---|
 | Android / Android TV | **[NITOS-2.1.0.apk](https://github.com/Heekuez/nitos-releases/releases/download/v2.1.0/NITOS-2.1.0.apk)** |
-| Windows | **[установщик — на странице релиза](https://github.com/Heekuez/nitos-releases/releases/latest)** |
+| Windows | **[на странице релиза](https://github.com/Heekuez/nitos-releases/releases/latest)** |
 | Ubuntu / Debian / Mint | **[nitos_2.1.0_amd64.deb](https://github.com/Heekuez/nitos-releases/releases/download/v2.1.0/nitos_2.1.0_amd64.deb)** |
 | Другой Linux | **[NITOS-2.1.0-linux-x64.tar.gz](https://github.com/Heekuez/nitos-releases/releases/download/v2.1.0/NITOS-2.1.0-linux-x64.tar.gz)** |
 <!-- /DL -->
