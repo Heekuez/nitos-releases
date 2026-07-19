@@ -14,13 +14,15 @@
 
 </div>
 
-## Загрузки → [последняя версия](https://github.com/Heekuez/nitos-releases/releases/latest)
+## Скачать
 
-| Платформа | Файл |
+<!-- DL -->
+| Платформа | Скачать |
 |---|---|
-| Android / Android TV | `NITOS-x.y.z.apk` |
-| Windows | `NITOS-Setup-x.y.z.exe` |
-| Ubuntu / Debian / Mint | `nitos_x.y.z_amd64.deb` |
-| Другой Linux | `NITOS-x.y.z-linux-x64.tar.gz` |
+| Android / Android TV | **[NITOS-2.1.0.apk](https://github.com/Heekuez/nitos-releases/releases/download/v2.1.0/NITOS-2.1.0.apk)** |
+| Windows | **[установщик — на странице релиза](https://github.com/Heekuez/nitos-releases/releases/latest)** |
+| Ubuntu / Debian / Mint | **[nitos_2.1.0_amd64.deb](https://github.com/Heekuez/nitos-releases/releases/download/v2.1.0/nitos_2.1.0_amd64.deb)** |
+| Другой Linux | **[NITOS-2.1.0-linux-x64.tar.gz](https://github.com/Heekuez/nitos-releases/releases/download/v2.1.0/NITOS-2.1.0-linux-x64.tar.gz)** |
+<!-- /DL -->
 
 Ссылки-подписки и `vless://` конфиги · `VLESS` `Reality` `XTLS Vision` · тёмная и светлая темы · пульт на Android TV
