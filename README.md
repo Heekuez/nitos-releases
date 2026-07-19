@@ -19,10 +19,10 @@
 <!-- DL -->
 | Платформа | Скачать |
 |---|---|
-| Android / Android TV | **[NITOS-2.1.0.apk](https://github.com/Heekuez/nitos-releases/releases/download/v2.1.0/NITOS-2.1.0.apk)** |
-| Windows | **[NITOS-Setup-2.0.0.exe](https://github.com/Heekuez/nitos-releases/releases/download/v2.0.0/NITOS-Setup-2.0.0.exe)** |
-| Ubuntu / Debian / Mint | **[nitos_2.1.0_amd64.deb](https://github.com/Heekuez/nitos-releases/releases/download/v2.1.0/nitos_2.1.0_amd64.deb)** |
-| Другой Linux | **[NITOS-2.1.0-linux-x64.tar.gz](https://github.com/Heekuez/nitos-releases/releases/download/v2.1.0/NITOS-2.1.0-linux-x64.tar.gz)** |
+| Android / Android TV | **[NITOS-2.2.0.apk](https://github.com/Heekuez/nitos-releases/releases/download/v2.2.0/NITOS-2.2.0.apk)** |
+| Windows | **[на странице релиза](https://github.com/Heekuez/nitos-releases/releases/latest)** |
+| Ubuntu / Debian / Mint | **[nitos_2.2.0_amd64.deb](https://github.com/Heekuez/nitos-releases/releases/download/v2.2.0/nitos_2.2.0_amd64.deb)** |
+| Другой Linux | **[NITOS-2.2.0-linux-x64.tar.gz](https://github.com/Heekuez/nitos-releases/releases/download/v2.2.0/NITOS-2.2.0-linux-x64.tar.gz)** |
 <!-- /DL -->
 
 Ссылки-подписки и `vless://` конфиги · `VLESS` `Reality` `XTLS Vision` · тёмная и светлая темы · пульт на Android TV
