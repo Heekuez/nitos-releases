@@ -27,13 +27,19 @@
 
 ## Роутер (бета)
 
-Вся домашняя сеть через NITOS — одной командой по SSH (OpenWRT 23.05+ / Keenetic с Entware):
+VPN один раз на роутере — работает у всех устройств дома сразу.
+
+| Роутер | Поддержка | Как |
+|---|---|---|
+| **Keenetic** | ✅ | без перепрошивки, через Entware → [гайд](router/GUIDE.md#keenetic) |
+| **GL.iNet** | ✅ | работает из коробки → [гайд](router/GUIDE.md#glinet) |
+| **Xiaomi, TP-Link, ASUS…** | ⚙️ | после прошивки OpenWRT → [гайд](router/GUIDE.md#openwrt) |
+| **Huawei, Tenda, от провайдера** | ❌ | прошивка закрыта |
+
+Установка — одна команда по SSH ([подробный гайд](router/GUIDE.md)):
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/Heekuez/nitos-releases/main/router/install.sh | sh -s -- "ССЫЛКА"
 ```
 
 `ССЫЛКА` — ваша подписка или vless-конфиг. Удаление: тот же скрипт с `--uninstall`.
-
-
-Ссылки-подписки и `vless://` конфиги · `VLESS` `Reality` `XTLS Vision` · тёмная и светлая темы · пульт на Android TV
