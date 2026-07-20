@@ -25,4 +25,15 @@
 | Другой Linux | **[NITOS-2.5.0-linux-x64.tar.gz](https://github.com/Heekuez/nitos-releases/releases/download/v2.5.0/NITOS-2.5.0-linux-x64.tar.gz)** |
 <!-- /DL -->
 
+## Роутер (бета)
+
+Вся домашняя сеть через NITOS — одной командой по SSH (OpenWRT 23.05+ / Keenetic с Entware):
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/Heekuez/nitos-releases/main/router/install.sh | sh -s -- "ССЫЛКА"
+```
+
+`ССЫЛКА` — ваша подписка или vless-конфиг. Удаление: тот же скрипт с `--uninstall`.
+
+
 Ссылки-подписки и `vless://` конфиги · `VLESS` `Reality` `XTLS Vision` · тёмная и светлая темы · пульт на Android TV
