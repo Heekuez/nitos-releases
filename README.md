@@ -2,6 +2,9 @@
 
 # 🪐 NITOS
 
+[![Telegram](https://img.shields.io/badge/Telegram-Сообщество-2AABEE?logo=telegram&logoColor=white)](https://t.me/nitos_space)
+
+
 [![Сайт](https://img.shields.io/badge/nitos.space-сайт-E8823C)](https://nitos.space)
 [![Telegram](https://img.shields.io/badge/Telegram-бот-26A5E4?logo=telegram&logoColor=white)](https://t.me/nitos_vpn_bot)
 [![Версия](https://img.shields.io/github/v/release/Heekuez/nitos-releases?color=4FD18B&label=версия)](https://github.com/Heekuez/nitos-releases/releases/latest)
