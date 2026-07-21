@@ -151,7 +151,7 @@ cat > "$CONF_DIR/config.json" <<EOF
 {
   "log": {"level": "warn"},
   "dns": {
-    "servers": [{"type": "udp", "tag": "local", "server": "1.1.1.1", "detour": "direct"}],
+    "servers": [{"type": "udp", "tag": "local", "server": "1.1.1.1"}],
     "final": "local"
   },
   "inbounds": [{
