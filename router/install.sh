@@ -151,7 +151,7 @@ cat > "$CONF_DIR/config.json" <<EOF
 {
   "log": {"level": "warn"},
   "dns": {
-    "servers": [{"type": "udp", "tag": "local", "server": "1.1.1.1"}],
+    "servers": [{"type": "udp", "tag": "local", "server": "1.1.1.1", "detour": "direct"}],
     "final": "local"
   },
   "inbounds": [{
@@ -166,6 +166,7 @@ cat > "$CONF_DIR/config.json" <<EOF
   ],
   "route": {
     "default_domain_resolver": {"server": "local"},
+    "auto_detect_interface": true,
     "rules": [
       {"action": "sniff"},
       {"protocol": "dns", "action": "hijack-dns"},
