@@ -22,10 +22,10 @@
 <!-- DL -->
 | Платформа | Скачать |
 |---|---|
-| Android / Android TV | **[NITOS-2.5.5.apk](https://github.com/Heekuez/nitos-releases/releases/download/v2.5.5/NITOS-2.5.5.apk)** |
-| Windows | **[NITOS-Setup-2.5.5.exe](https://github.com/Heekuez/nitos-releases/releases/download/v2.5.5/NITOS-Setup-2.5.5.exe)** |
-| Ubuntu / Debian / Mint | **[nitos_2.5.5_amd64.deb](https://github.com/Heekuez/nitos-releases/releases/download/v2.5.5/nitos_2.5.5_amd64.deb)** |
-| Другой Linux | **[NITOS-2.5.5-linux-x64.tar.gz](https://github.com/Heekuez/nitos-releases/releases/download/v2.5.5/NITOS-2.5.5-linux-x64.tar.gz)** |
+| Android / Android TV | **[NITOS-2.9.3.apk](https://github.com/Heekuez/nitos-releases/releases/download/v2.9.3/NITOS-2.9.3.apk)** |
+| Windows | **[на странице релиза](https://github.com/Heekuez/nitos-releases/releases/latest)** |
+| Ubuntu / Debian / Mint | **[на странице релиза](https://github.com/Heekuez/nitos-releases/releases/latest)** |
+| Другой Linux | **[на странице релиза](https://github.com/Heekuez/nitos-releases/releases/latest)** |
 <!-- /DL -->
 
 ## Роутер (бета)
