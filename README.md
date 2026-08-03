@@ -26,6 +26,7 @@
 | Windows | **[NITOS-Setup-2.9.7.exe](https://github.com/Heekuez/nitos-releases/releases/download/v2.9.7/NITOS-Setup-2.9.7.exe)** |
 | Ubuntu / Debian / Mint | **[nitos_2.9.7_amd64.deb](https://github.com/Heekuez/nitos-releases/releases/download/v2.9.7/nitos_2.9.7_amd64.deb)** |
 | Другой Linux | **[NITOS-2.9.7-linux-x64.tar.gz](https://github.com/Heekuez/nitos-releases/releases/download/v2.9.7/NITOS-2.9.7-linux-x64.tar.gz)** |
+| macOS | **[NITOS-2.9.7-macos.dmg](https://github.com/Heekuez/nitos-releases/releases/download/v2.9.7/NITOS-2.9.7-macos.dmg)** |
 <!-- /DL -->
 
 ## Роутер (бета)
