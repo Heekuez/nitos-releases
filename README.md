@@ -22,11 +22,11 @@
 <!-- DL -->
 | Платформа | Скачать |
 |---|---|
-| Android / Android TV | **[NITOS-2.9.7.apk](https://github.com/Heekuez/nitos-releases/releases/download/v2.9.7/NITOS-2.9.7.apk)** |
-| Windows | **[NITOS-Setup-2.9.7.exe](https://github.com/Heekuez/nitos-releases/releases/download/v2.9.7/NITOS-Setup-2.9.7.exe)** |
-| Ubuntu / Debian / Mint | **[nitos_2.9.7_amd64.deb](https://github.com/Heekuez/nitos-releases/releases/download/v2.9.7/nitos_2.9.7_amd64.deb)** |
-| Другой Linux | **[NITOS-2.9.7-linux-x64.tar.gz](https://github.com/Heekuez/nitos-releases/releases/download/v2.9.7/NITOS-2.9.7-linux-x64.tar.gz)** |
-| macOS | **[NITOS-2.9.7-macos.dmg](https://github.com/Heekuez/nitos-releases/releases/download/v2.9.7/NITOS-2.9.7-macos.dmg)** |
+| Android / Android TV | **[NITOS-2.10.0.apk](https://github.com/Heekuez/nitos-releases/releases/download/v2.10.0/NITOS-2.10.0.apk)** |
+| Windows | **[на странице релиза](https://github.com/Heekuez/nitos-releases/releases/latest)** |
+| Ubuntu / Debian / Mint | **[на странице релиза](https://github.com/Heekuez/nitos-releases/releases/latest)** |
+| Другой Linux | **[на странице релиза](https://github.com/Heekuez/nitos-releases/releases/latest)** |
+| macOS | **[на странице релиза](https://github.com/Heekuez/nitos-releases/releases/latest)** |
 <!-- /DL -->
 
 ## Роутер (бета)
